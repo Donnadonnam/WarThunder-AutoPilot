@@ -1,10 +1,12 @@
 import time
 import pyautogui
+import pydirectinput
 
 print('Shift now')
-time.sleep(20)
+time.sleep(10)
+
+
+
 pyautogui.scroll(2500) 
-
-pyautogui.mouseUp() #This differs from plane to plane, while lighter planes like the MiG-21 would take off with this command, heavier ones would need something like this
-
-# pyautogui.mouseUp(x=850,y=300) #To get a proper push from the ground incase of heavier planes
+time.sleep(15)
+pydirectinput.press('s',presses=100)
