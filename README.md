@@ -27,5 +27,8 @@ I've demonstrated each part in these videos here:
 
 Part -3 is in the making!
 
+## Support
+You can open [issues](https://github.com/therealcyber71/WarThunder-AutoPilot/issues) or join my [discord server](https://discord.gg/JDNAFMkpQN) and discuss ideas, suggestions, feedbacks and issues there.
+
 ## License
 The code is distributed under the [MIT](https://opensource.org/licenses/MIT) license.
