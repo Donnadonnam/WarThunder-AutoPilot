@@ -1,4 +1,4 @@
-# WarThunder-AutoPilot
+# [![WTLOGO](https://raw.githubusercontent.com/therealcyber71/WarThunder-AutoPilot/main/autopilot/img/war_thunder_logo-removebg-preview.png) WarThunder-AutoPilot
 An experiment to control fighter jets/bombers, programmatically in War Thunder
 
 ## About
