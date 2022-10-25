@@ -8,7 +8,7 @@ This is an experiment of mine where I use some Desktop automation libraries to a
 ## Explaination
 I've divided the project into 3 parts mainly:
 * Takeoff automatically
-* Aim and shoot at ariel targets
+* Aim and shoot at arial targets
 * Land automatically
 
 Some other goals to achieve:
