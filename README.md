@@ -15,6 +15,7 @@ Some other goals to achieve:
 * Detect targets and bomb them
 * Add voice commands
 * Build a custom controller
+* Build better VR support for War Thunder
 * Apply the same principles to irl drones and UAVs
 
 ## ⚙️ Demonstration
