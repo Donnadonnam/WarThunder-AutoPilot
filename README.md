@@ -1,11 +1,11 @@
 # [![WTLOGO](https://github.com/therealcyber71/WarThunder-AutoPilot/blob/main/autopilot/img/war_thunder_logo-removebg-preview%20(2).png?raw=true)](https://warthunder.com/in) WarThunder-AutoPilot
 An experiment to control fighter jets/bombers, programmatically in War Thunder
 
-## About
+## ❓ About
 This is an experiment of mine where I use some Desktop automation libraries to automate WarThunder, I also plan on expanding the project into making my own controller for war thunder, adding voice commands and maybe even building real life drones that are automated!
 **Note:** This is NOT a cheat, this is simply an experiment for research and educational purposes.
 
-## Explaination
+## ⚡ Explaination
 I've divided the project into 3 parts mainly:
 - [x] Takeoff automatically
 - [x] Aim and shoot at arial targets
@@ -17,7 +17,7 @@ Some other goals to achieve:
 * Build a custom controller
 * Apply the same principles to irl drones and UAVs
 
-## Demonstration
+## ⚙️ Demonstration
 
 I've demonstrated each part in these videos here: 
 
@@ -27,8 +27,8 @@ I've demonstrated each part in these videos here:
 
 Part -3 is in the making!
 
-## Support
+## 🔨 Support
 You can open [issues](https://github.com/therealcyber71/WarThunder-AutoPilot/issues) or join my [discord server](https://discord.gg/JDNAFMkpQN) and discuss ideas, suggestions, feedbacks and issues there.
 
-## License
+## 📜 License
 The code is distributed under the [MIT](https://opensource.org/licenses/MIT) license.
