@@ -2,7 +2,7 @@
 An experiment to control fighter jets/bombers, programmatically in War Thunder
 
 ## ❓ About
-This is an experiment of mine where I use some Desktop automation libraries to automate WarThunder, I also plan on expanding the project into making my own controller for war thunder, adding voice commands and maybe even building real life drones that are automated!
+This is an experiment of mine where I use some Desktop automation libraries to automate WarThunder, I also plan on expanding the project into making my own controller for war thunder, adding voice commands and maybe even building real life drones that are automated! \
 **Note:** This is NOT a cheat, this is simply an experiment for research and educational purposes.
 
 ## ⚡ Explaination
