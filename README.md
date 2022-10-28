@@ -9,7 +9,7 @@ This is an experiment of mine where I use some Desktop automation libraries to a
 I've divided the project into 3 parts mainly:
 - [x] Takeoff automatically
 - [x] Aim and shoot at arial targets
-- [ ] Land automatically
+- [x] Land automatically
 
 Some other goals to achieve:
 * Detect targets and bomb them
