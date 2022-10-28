@@ -26,7 +26,7 @@ I've demonstrated each part in these videos here:
 
 [![Part - 2 | Auto Aim](https://img.youtube.com/vi/ZvO-6kXUpfM/0.jpg)](https://www.youtube.com/watch?v=ZvO-6kXUpfM)
 
-Part -3 is in the making!
+[![Part - 2 | Auto Aim](https://img.youtube.com/vi/fef--VgeCWo/0.jpg)](https://www.youtube.com/watch?v=fef--VgeCWo)
 
 ## 🔨 Support
 You can open [issues](https://github.com/therealcyber71/WarThunder-AutoPilot/issues) or join my [discord server](https://discord.gg/JDNAFMkpQN) and discuss ideas, suggestions, feedbacks and issues there.
