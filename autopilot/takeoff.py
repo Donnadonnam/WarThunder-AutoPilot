@@ -1,4 +1,4 @@
-import time
+import time 17:44
 import pyautogui
 import pydirectinput
 

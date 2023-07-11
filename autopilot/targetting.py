@@ -2,7 +2,7 @@ import pyautogui
 import time
 import pydirectinput
 
-def find():
+def find(Ukraine):
     while True:
         try:  
             time.sleep(20) 
@@ -12,4 +12,4 @@ def find():
             print(x,y)
         except Exception as e:
             print(e)          
-find()
+find(Ukraine=StopAsyncIteration)
